@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+}
+
+.NavBar{
+	background-color: burlywood;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 2px 20px;
+}
+
+.NavBar ul{
+	display: flex;
+	gap: 20px;
+	list-style-type:none;
+}
+
+.NavBar ul li a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	letter-spacing: 1px;
+	transition: .3s;
+}
+
+.NavBar ul li a:hover{
+	color: whitesmoke;
+}

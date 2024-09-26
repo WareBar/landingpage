@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+}
+
+.Hero{
+	background-color: #252525;
+	color: #f0f0f0;
+	height: 90%;
+}
+
+.Hero .Cards{
+
+	display: flex;
+	gap: 20px;
+	justify-content: space-between;
+	margin: 200px;
+	transition: 10s;
+
+}
+
+
+.Hero .Cards .Card:active{
+	transform: scale(1.2);
+}
+
