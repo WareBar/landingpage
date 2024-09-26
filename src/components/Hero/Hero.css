@@ -18,6 +18,10 @@
 
 }
 
+.Hero .Card .Card{
+	transition: 5s;
+}
+
 
 .Hero .Cards .Card:active{
 	transform: scale(1.2);
