@@ -23,17 +23,17 @@ function Hero() {
         />  
 
         <Card 
-          name="STUDENT 1"
+          name="STUDENT 3"
           author="Carl Menard"
         />  
 
         <Card 
-          name="STUDENT 1"
+          name="STUDENT 4"
           author="John Benedict"
         />
 
         <Card
-          name="STUDENT 1"
+          name="STUDENT 5"
           author="Karl Domanais"
         />         
 
